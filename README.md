@@ -56,7 +56,7 @@ The script relies on exact application names for the Windows Start Menu search.
 Execute the script from your terminal:
 
 ```bash
-python your_script_name.py
+python no_picoducky_main.py
 ```
 
 ## Author
