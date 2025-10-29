@@ -36,7 +36,7 @@ Demo for pico script (main.py) [Soon!]()
 
 **Step 1: Clone the Repository**
 ```bash
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+git clone [https://github.com/sujalnegi/Privacy-Shutter](https://github.com/sujalnegi/Privacy-Shutter.git)
 cd "Privacy Shutter"
 ```
 **Step 2: Install Dependencies**
