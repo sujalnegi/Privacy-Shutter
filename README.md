@@ -14,7 +14,7 @@ Privacy Shutter is a minimalist USB HID tool for the PicoDucky (CircuitPython). 
 
 Demo video for no pico script [here](https://drive.google.com/file/d/1nOX7HdE5QQOwLlq48w09lEvt4-07vOx8/view?usp=drive_link)
 
-Demo for pico script (main.py) [Soon!]()
+Demo for pico script (main.py) [here](https://drive.google.com/file/d/10qgNH7874o2D0qidWbcgZuDlY537NDTj/view?usp=drive_link)
 
 
 
